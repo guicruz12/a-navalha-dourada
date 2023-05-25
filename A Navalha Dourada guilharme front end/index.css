@@ -1,0 +1,31 @@
+
+body{
+    background-color: #191517;
+}
+
+header{
+    text-align: center;
+}
+
+h1  {
+    color: #8A8109;
+    font-size: 50px;
+}
+
+.topo-pag{
+margin-right: 10%;
+margin-left: 10%;
+background-color: #020202;
+border-radius: 50px;
+border-width: 50px;
+border-color: #191517;
+border-style: double;
+}
+
+.LOGO{
+    height: 200px;
+    width: 200px;
+    background: 30px;
+    background-color: #191517;
+    border-radius: 60px;
+}
